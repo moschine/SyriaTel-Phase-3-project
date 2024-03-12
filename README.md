@@ -59,7 +59,7 @@ The dataset includes the following variables:
 ## Summary
 The comprehensive analysis conducted by the project team serves as a guide for SyriaTel to address customer churn challenges. The developed models not only identify key variables influencing customer churn but also provide a robust framework for predictive modeling.
 
-The Random Forest Classifier model emerged as the best-performing model, achieving an accuracy of 0.96, a precision of 0.93, a recall of 0.76, an F1 score of 0.84, and a ROC AUC score of 0.87. This model empowers SyriaTel to navigate the customer retention landscape with a data-driven approach, enabling targeted retention efforts and personalized offers to prevent customer attrition.
+Based on these metrics, all three models demonstrated strong performance in terms of accuracy, precision, and ROC AUC score. However, the Gradient Boosting model stood out with the highest accuracy and precision scores.
 
 By delving into the relationships between various features and customer churn, the models provide insights into the factors contributing to churn, such as customer service call frequency, international plan subscriptions, and usage patterns. Statistical significance achieved through hypothesis testing adds credibility to the insights derived, ensuring that SyriaTel can make informed decisions based on a solid foundation of analysis.
 
